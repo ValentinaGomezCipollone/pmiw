@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=MG-BXtnN1pw
+//https://www.youtube.com/watch?v=MG-BXtnN1pw
 let fondo;
 let img3;
 let mb = [];
@@ -43,3 +43,4 @@ function keyPressed() {
 function mousePressed() {
   juego.click(mouseX, mouseY);
 }
+
